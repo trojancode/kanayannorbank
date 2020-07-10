@@ -1,0 +1,214 @@
+.MyButton-1 {
+    padding: 0.15rem 0.75rem !important;
+    border-color: #08038014;
+}
+
+.bg-white {
+    background-color: #fff !important;
+}
+
+.My-primary-color {
+    color: #13770a !important;
+}
+
+.My-bg-primary {
+    background-color: #13770a !important;
+}
+
+.My-bg-info {
+    background-color: #343a40 !important;
+}
+
+
+/* #FAFAFA */
+.My-body-bg {
+    background-color: #FAFAFA !important;
+}
+
+
+.My-card-border {
+    border: 2px solid #13770a !important;
+    border-radius: 0px;
+}
+
+.My-nav {
+    background: #fff;
+    box-shadow: 0px 0px 5px rgba(112, 130, 255, 0.11);
+}
+
+.seacrh-icon-sm {
+    display: block;
+    background-image: url('/img/search.svg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 23px;
+    height: 23px;
+}
+
+.My-input-group-1 {
+    border-radius: 2px !important;
+    background: #fff !important;
+    box-shadow: 0px 0px 5px rgba(112, 130, 255, 0.1) !important;
+}
+.MyButton-1:hover{
+    color: white !important;
+    background-color: #040067 !important;
+}
+
+.My-input-group-1 .input-group-text,
+.form-control {
+    background-color: #fff !important;
+    border: 0;
+}
+
+.My-input-group-1 .form-control:focus {
+    outline: none !important;
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.My-banner-caption-text {
+    line-height: 19px;
+}
+
+.My-card {
+    background: #fff;
+    box-shadow: 0px 0px 5px rgba(112, 130, 255, 0.1);
+    border: 0;
+    border-radius: 0;
+}
+
+.My-card-header {}
+
+.trinagle-bullet-icon {
+    display: block;
+    float: left;
+    background-image: url("/img/bullet-1.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+}
+
+.line-height-15 {
+    line-height: 1.5;
+}
+
+.My-expand-badge {
+    width: max-content;
+    padding: 3px 10px;
+    border-radius: 30px;
+    font-size: 12px;
+    text-align: center;
+}
+
+.My-position-bottom-center {
+    position: absolute;
+    bottom: -18px;
+    left: calc(50% - 30px);
+}
+
+.My-h-13px {
+    height: 13px;
+}
+
+.My-form-control {
+    border-radius: 5px;
+    background-color: #f7f7f7 !important;
+}
+
+.My-bg-secondary {
+    background-color: #EBEBEB !important;
+}
+
+.My-chart-card {
+    height: 130px;
+}
+
+@media (max-width: 766px) {
+    .My-chart-card {
+        height: 230px !important;
+    }
+}
+
+.My-profile-rounded {
+    width: 150px;
+    height: 150px;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    filter: drop-shadow(0px 3px 20px rgba(134, 136, 146, 0.27));
+
+}
+
+.My-footer-logo {
+    margin-top: -75px;
+    margin-left: 1rem;
+    width: 150px;
+    height: 150px;
+}
+
+.My-line-White {
+    background-color: #fff;
+    height: 1px;
+}
+
+.My-logo {
+    width: 80px;
+    height: 80px;
+}
+
+.My-navbar-brand {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.My-navbar-brand a {
+    align-self: center;
+    width: max-content;
+}
+.tns-nav button{
+    width: 12px;
+    height: 12px;
+    background: rgba(8, 3, 128, 0.3);
+    border-radius: 50%;
+    border-width: 0px;
+    margin:15px 3px 3px 3px ;
+    
+}
+.tns-nav .tns-nav-active{
+    background: #080380;
+}
+
+.tns-nav button:focus{
+    outline: none !important;
+    border-color: inherit;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.tns-nav{
+    text-align: center;
+}
+
+.My-brand-text {
+    display: block;
+}
+
+.My-brand-text-sm {
+    display: none;
+}
+
+@media (max-width: 766px) {
+    .My-brand-text {    
+        display: none;
+    }
+    .My-brand-text-sm {
+        display: block;
+    }
+}
+
+@media (max-width: 766px) {
+    .My-chart-card {
+        height: 230px !important;
+    }
+}

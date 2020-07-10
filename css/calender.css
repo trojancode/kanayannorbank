@@ -1,0 +1,23 @@
+.weedays th{
+  background-color: blue;
+  background: #9ef0c7;
+  border: 1px solid rgba(0, 0, 0, 0);
+  padding: 10px 0px;
+  text-align: center;
+}
+.days .visible{
+  padding: 10px 0px;
+  text-align: center;
+  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.07);
+
+}
+
+.currentDay{
+  background-color: #020036 !important;
+  color: #fff;
+}
+
+.sunday{
+  background-color: #FFC5C5 !important;
+}
